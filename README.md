@@ -1,5 +1,4 @@
-# Finaktiva (Prueba Tecnica Backend) Daniel Stiven Londoño Ortega daniel.londono.ortega@gmail.com
-Prueba Tecnica
+# Finaktiva (Prueba Tecnica) Daniel Stiven Londoño Ortega daniel.londono.ortega@gmail.com
 
 #Recursos
 
