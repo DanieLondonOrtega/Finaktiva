@@ -1,0 +1,13 @@
+<div class="card flex justify-content-center">
+    <div class="flex align-items-center" style="margin-bottom: 10px">
+        <label for="description" class="font-semibold" style="margin-right: 10px">Description</label>
+        <input pInputText id="description" class="flex-auto" [(ngModel)]="eventLogs.description" />
+        <label for="date" class="font-semibold" style="margin-left: 30px; margin-right: 10px;">Date</label>
+        <p-calendar id="date" [(ngModel)]="eventLogs.date" dateFormat="dd/mm/yy"/>
+        <span style="margin-right: 10px;"></span>
+        <p-button label="Agregar" [rounded]="true" size="small" icon="pi pi-plus" (onClick)="Save()"/>
+        <span style="margin-right: 10px;"></span>
+        <p-button label="Limpiar" [outlined]="true" severity="secondary" [rounded]="true" size="small" (onClick)="Clear()" />
+    </div>
+    <p-messages [(value)]="messages" [enableService]="true" [closable]="true" />
+</div>

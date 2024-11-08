@@ -1,0 +1,15 @@
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\bin\Debug\net6.0\Finaktiva.Infrastructure.deps.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\bin\Debug\net6.0\Finaktiva.Infrastructure.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\bin\Debug\net6.0\Finaktiva.Infrastructure.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\Finaktiva.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\Finaktiva.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\Finaktiva.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\Finaktiva.Infrastructure.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\Finaktiva.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\Finaktiv.F84FB01A.Up2Date
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\Finaktiva.Infrastructure.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\refint\Finaktiva.Infrastructure.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\Finaktiva.Infrastructure.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Infrastructur\obj\Debug\net6.0\ref\Finaktiva.Infrastructure.dll

@@ -1,0 +1,32 @@
+<div style="text-align: center; margin-bottom: 80px;">
+  <app-add-event-logs></app-add-event-logs>
+</div>
+<p-table [value]="eventLogs" [paginator]="true" [rows]="5">
+  <ng-template pTemplate="header">
+    <tr>
+      <th>Id</th>
+      <th>
+        <div class="flex align-items-center">
+          Type
+          <p-columnFilter type="text" field="type" display="menu" [showMatchModes]="false" [showOperator]="false" [showAddButton]="false"/>
+        </div>
+      </th>
+      <th>Description</th>
+      <th>Date</th>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-event>
+    <tr>
+      <td>{{event.id}}</td>
+      <td>{{event.type}}</td>
+      <td>{{event.description}}</td>
+      <td>{{event.date | date : 'dd/MM/yyyy'}}</td>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="emptymessage">
+    <tr>
+      <td colspan="7">No Event Logs.</td>
+    </tr>
+  </ng-template>
+</p-table>
+<p-messages [(value)]="messages" [enableService]="true" [closable]="true" />

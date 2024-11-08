@@ -1,0 +1,311 @@
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.exe
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.deps.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.runtimeconfig.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Infrastructur.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Infrastructur.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.Finaktiva.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\scopedcss\bundle\Finaktiva.API.styles.css
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiv.8A88C866.Up2Date
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\refint\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.genruntimeconfig.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.API\obj\Debug\net6.0\ref\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.exe
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.deps.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.runtimeconfig.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Infrastructur.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Infrastructur.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.Finaktiva.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\scopedcss\bundle\Finaktiva.API.styles.css
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiv.8A88C866.Up2Date
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\refint\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.genruntimeconfig.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\obj\Debug\net6.0\ref\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.exe
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.deps.json
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.runtimeconfig.json
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Infrastructur.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Infrastructur.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.Finaktiva.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\scopedcss\bundle\Finaktiva.API.styles.css
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiv.8A88C866.Up2Date
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\refint\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.genruntimeconfig.cache
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\ref\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.exe
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.deps.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.runtimeconfig.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.API.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Infrastructur.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\bin\Debug\net6.0\Finaktiva.Infrastructur.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.sourcelink.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.Finaktiva.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finaktiva.API.props
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\scopedcss\bundle\Finaktiva.API.styles.css
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiv.8A88C866.Up2Date
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\refint\Finaktiva.API.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\Finaktiva.API.genruntimeconfig.cache
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.API\obj\Debug\net6.0\ref\Finaktiva.API.dll

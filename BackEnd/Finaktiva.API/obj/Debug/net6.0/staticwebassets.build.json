@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j0kv+aVafBMbnX5efGzqIaxu6KiF0VM17R2nLZT1AFY=",
+  "Source": "Finaktiva.API",
+  "BasePath": "_content/Finaktiva.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

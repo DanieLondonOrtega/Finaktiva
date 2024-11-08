@@ -1,0 +1,69 @@
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.deps.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Infrastructur.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Infrastructur.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiv.A23F89CF.Up2Date
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\refint\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\Finaktiva.Aplication\obj\Debug\net6.0\ref\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.deps.json
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Infrastructur.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Infrastructur.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiv.A23F89CF.Up2Date
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\refint\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\FinaktivaPrueba\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\ref\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.deps.json
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Infrastructur.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Infrastructur.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiv.A23F89CF.Up2Date
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\refint\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\Clone Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\ref\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.deps.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Domain.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Infrastructur.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Domain.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\bin\Debug\net6.0\Finaktiva.Infrastructur.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.csproj.AssemblyReference.cache
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.AssemblyInfoInputs.cache
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.AssemblyInfo.cs
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.sourcelink.json
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiv.A23F89CF.Up2Date
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\refint\Finaktiva.Aplication.dll
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\Finaktiva.Aplication.pdb
+C:\Users\Kuatzel\source\repos\Finaktiva\BackEnd\Finaktiva.Aplication\obj\Debug\net6.0\ref\Finaktiva.Aplication.dll
