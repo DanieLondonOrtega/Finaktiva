@@ -1,6 +1,6 @@
 # Finaktiva (Prueba Tecnica) Daniel Stiven Londoño Ortega daniel.londono.ortega@gmail.com
 
-#Recursos
+## Recursos
 
 - Arquitectura Onion
 - DDD
@@ -19,9 +19,9 @@
 Se diseñaron 2 tablas, la imagen del modelo se subio en el respositorio. 
 Una tabla para manejar los EventLogs y la segunda para manejar los Tipos de EventLogs(Api, Formulario) TypeEventLogs
 
-#¡Recomendaciones Importante!
+## ¡Recomendaciones Importante!
 
-.Net:
+### .Net:
 
 1. Restaurar paquetes de NuGet
 2. Cambiar cadena de conexion a la base de datos SQL en appsettings.json ("FinaktivaBDConnection")
@@ -30,7 +30,7 @@ Una tabla para manejar los EventLogs y la segunda para manejar los Tipos de Even
 5. Inicializar EntityFramework - Add-Migration
 6. Realizar despliegue a la base de datos - Update-database
 
-Angular:
+### Angular:
 
 1. Npm Install
 2. Ng serve -o
