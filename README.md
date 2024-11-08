@@ -3,7 +3,7 @@ Prueba Tecnica
 
 #Recursos
 
-- Arquitectura Hexagonal
+- Arquitectura Onion
 - DDD
 - EntityFramework Code First
 - Inyeccion de Dependencias
