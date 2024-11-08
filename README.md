@@ -35,3 +35,6 @@ Angular:
 
 1. Npm Install
 2. Ng serve -o
+
+Adjunto Video 
+https://www.loom.com/share/2ae470e67e8d4ded9ddd5d40abc2368c
